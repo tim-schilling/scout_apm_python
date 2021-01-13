@@ -1,5 +1,12 @@
 # Changelog
 
+## Pending
+
+### Fixed
+
+- Make Starlette integration handle ASGI apps that are class instances
+  ([Issue #596](https://github.com/scoutapp/scout_apm_python/issues/596))
+
 ## [2.17.0] 2020-09-17
 
 ### Added
